@@ -10,5 +10,4 @@
   ### I want to learn:
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373526/cpp.svg" width="40" height="40"/> </a>
 
